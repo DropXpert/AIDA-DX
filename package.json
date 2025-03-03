@@ -1,0 +1,13 @@
+{
+  "name": "aida",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dropxpert.js",
+  "scripts": {
+    "start": "node dropxpert.js"
+  },
+  "keywords": [],
+  "author": "@dropxpert",
+  "license": "ISC",
+  "type": "module"
+}
